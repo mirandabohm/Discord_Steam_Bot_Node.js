@@ -11,4 +11,7 @@ Thumbs.db
 node_modules
 
 # .idea file #
+.idea/
 
+# Private credentials #
+credentials.js
