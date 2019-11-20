@@ -1,6 +1,9 @@
 # discord_steam_interface_node.js
 
-This project creates bot intended to discover and displaz a Discord user's 
+This is the Node.js version of the Discord_Steam_Interface Bot found here:  
+[Discord_Steam_Interface Bot (Python edition)](https://github.com/upquark00/Discord_Steam_Interface)
+
+This project creates a bot intended to discover and display a Discord user's 
 current activity by
 
 (a) Checking for an active session in Steam, a major gaming platform, and importing 
